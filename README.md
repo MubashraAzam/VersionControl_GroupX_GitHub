@@ -1,15 +1,15 @@
-# VersionControl_Group-mqz_GitLab
+# VersionControl_Group-mqz_GitHub
 
 ## Purpose
 This repository is created for Software Quality Engineering – Assignment.  
-The objective is to learn and practice version control using GitLab.  
+The objective is to learn and practice version control using GitHub.  
 It demonstrates how to create repositories, use branches, make commits, merge updates, and resolve conflicts in a collaborative environment.
 
 ## Team Members
-- *Team Leader:* Qurat-ul-Ain Fatima (23011598-105)  
+- *Team Leader:* Mubashra Azam (23011598-098)  
 - *Member 1:* Zartash Nabeel (23011598-099)  
-- *Member 2:* Mubashra Azam (23011598-098)  
+- *Member 2:* Qurat-ul-Ain Fatima (23011598-105)  
 
 ## Repository Details
-- *Platform:* GitLab  
-- *Tool Used:* Git + GitLab
+- *Platform:* GitHub  
+- *Tool Used:* Git + GitHub
